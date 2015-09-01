@@ -7,7 +7,8 @@ def main():
     #words = p.split()
     #count = len(words)
     #print("The total word count is:", count)
-
+    #lambada function has not been added to this program yet
+    
     print("The name of this script file is: ", sys.argv[0])
 
     if len(sys.argv) == 3:
